@@ -1,4 +1,4 @@
-package account;
+package demo;
 
 import org.springframework.data.annotation.Id;
 
